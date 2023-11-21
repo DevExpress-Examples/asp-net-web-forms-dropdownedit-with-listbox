@@ -3,14 +3,20 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2317)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# CheckComboBox Emulation for multiple editors
+# DropDownEdit for ASP.NET Web Forms - How to emulate combo box with checkboxes for multiple editors
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2317/)**
 <!-- run online end -->
 
+This example demonstrates how you can use a combination of the [ASPxDropDownEdit](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDropDownEdit) and [ASPxListBox](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxListBox) editors to emulate a combo box that allows end-users to select multiple items within its dropdown list.
 
-<p>This example is based on the <a href="http://demos.devexpress.com/ASPxEditorsDemos/ASPxDropDownEdit/CheckComboBox.aspx">CheckComboBox Emulation</a>. The main difference is that the java script code can be applied to several ASPxDropDownEdit controls.</p>
+![](drop-down-edit-with-list-box.png)
 
-<br/>
+## Files to Review
 
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 
+## Online Demo
+
+* [CheckComboBox Emulation](https://demos.devexpress.com/ASPxEditorsDemos/ASPxDropDownEdit/CheckComboBox.aspx)
