@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2317)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# DropDownEdit for ASP.NET Web Forms - How to emulate combo box with checkboxes for multiple editors
+# DropDownEdit for ASP.NET Web Forms - How to emulate combo box with multiple selection
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2317/)**
 <!-- run online end -->
