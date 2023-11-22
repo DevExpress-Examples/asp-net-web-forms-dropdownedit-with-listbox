@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # DropDownEdit for ASP.NET Web Forms - How to emulate a combo box with multiple selections
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2317/)**
+**[[Run Online]](https://codecentral.devexpress.com/128537039/)**
 <!-- run online end -->
 
 This example demonstrates how you can use a combination of the [ASPxDropDownEdit](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDropDownEdit) and [ASPxListBox](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxListBox) editors to emulate a combo box that allows end-users to select multiple items within its dropdown list.
